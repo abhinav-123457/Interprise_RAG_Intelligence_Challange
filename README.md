@@ -22,6 +22,8 @@ Built for the **Enterprise RAG Intelligence Challenge**. 100% free / open stack 
 [Groq](https://groq.com) (free tier) for generation, local
 `sentence-transformers` for embeddings.
 
+> 🚀 **Live demo:** https://huggingface.co/spaces/Abhii2005/Interprise_RAG_Intelligence_Challange
+
 ---
 
 ## ✨ Highlights
